@@ -1,7 +1,7 @@
-SOURCE_URL=https://github.com/ArchiveBox/ArchiveBox/archive/refs/tags/v0.6.2.tar.gz
-SOURCE_SUM=53a6dd88d2a7c1510bccd172e7b89689a722acbdcc843d46d7f37efba8c7369d
+SOURCE_URL=https://github.com/ArchiveBox/ArchiveBox/archive/refs/heads/dev.zip
+SOURCE_SUM=d85e47ea07a402b850eda6ca8acd147f12d68b78636c1abfd3a8947b359eb7a1
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
 SOURCE_EXTRACT=true
