@@ -11,7 +11,7 @@ fontconfig fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fon
 wget curl chromium git ffmpeg youtube-dl ripgrep \
 build-essential python3-dev"
 
-nodejs_version=14
+nodejs_version=18
 
 #=================================================
 # PERSONAL HELPERS
